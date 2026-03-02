@@ -1,6 +1,8 @@
 # metagen
 Meta-analysis of genetic-association studies Use metagen With STATA 19
 
+https://www.youtube.com/watch?v=MaSG6P57S-o
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
